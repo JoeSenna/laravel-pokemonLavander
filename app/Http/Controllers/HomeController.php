@@ -10,7 +10,7 @@ class HomeController extends Controller
         return view('index');
     }
 
-    public function classes($pkm){
-        return view('classes', compact('pkm'));
+    public function pokemon($pkm){
+        return view('pokemon', compact('pkm'));
     }
 }

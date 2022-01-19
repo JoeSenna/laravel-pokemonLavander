@@ -53,19 +53,19 @@
 <body>
     <h1>Escolha um pokémon:</h1>
     <div class="container">
-        <a href="/classes/charmander">
+        <a href="/pokemon/charmander">
             <div>
                 <img src="https://external-preview.redd.it/UddQUiXHYfyqTrLDdBjEKJJ56K7YdPOXWIn5Pm9RtLM.jpg?width=640&crop=smart&auto=webp&s=7ea2de68b631056c3dcee7de5dd8ae705917c770">
                 Charmander
             </div>
         </a>
-        <a href="/classes/squirtle">
+        <a href="/pokemon/squirtle">
             <div>
                 <img src="https://i.pinimg.com/originals/ed/21/34/ed213482f982ca6e6e79e9584e15ca56.jpg">
                 Squirtle
             </div>
         </a>
-        <a href="/classes/bulbassaur">
+        <a href="/pokemon/bulbassaur">
             <div>
                 <img src="https://external-preview.redd.it/ugbcabmJEdqDrkW-8jnTZG-_-GXiji2sYjdndqaMvx0.jpg?auto=webp&s=3aaf6e2f740491864b302e2add262a4c57e76949">
                 Bulbassaur

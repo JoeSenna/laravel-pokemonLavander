@@ -15,4 +15,4 @@ use App\Http\Controllers\HomeController;
 */
 
 Route::get('/', [HomeController::class, 'index']);
-Route::get('/classes/{pkm}',[HomeController::class, 'classes']);
+Route::get('/pokemon/{pkm}',[HomeController::class, 'pokemon']);

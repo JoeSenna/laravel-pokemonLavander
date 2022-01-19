@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pokémon Red</title>
     <style>
-        h1{
+        h3{
             color: white;
         }
 
