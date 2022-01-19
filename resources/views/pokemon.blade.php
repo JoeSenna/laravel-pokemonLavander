@@ -16,7 +16,7 @@
     </style>
 </head>
 <body>
-    <h3>Você escolheu o pokemon: {{ nome }}</h3>
+    <h3>Você escolheu o pokemon: {{ $nome }}</h3>
     <img src="https://c.tenor.com/ZpBMkWyufhMAAAAC/dead.gif">
 </body>
 </html>
